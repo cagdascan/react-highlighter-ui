@@ -1,0 +1,8 @@
+.color-filter {
+  width: 40px;
+  height: 40px;
+}
+
+.color-filter.selected {
+  border: 2px solid #000;
+}
